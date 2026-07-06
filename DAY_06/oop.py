@@ -152,11 +152,3 @@ class cat:
 animal=[dog("cookie"),cat("peachy")]
 for a in animal: 
     print(f"{a.get_private_name()} {a.sound()}")
-
-#property
-class student:
-    def __init__(self):
-        self._age=18
-    @property
-    def age(Self):
-        return self._age
