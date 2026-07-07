@@ -27,6 +27,8 @@ Filtering even numbers using filter()
 Summing values using reduce()
 Book Price Analyzer using map(), filter(), and reduce()
 Square number generator using yield
+
+
 🎯 Learning Outcomes
 Understood how Python iterators work internally.
 Learned to create custom iterator classes.
@@ -35,6 +37,8 @@ Differentiated between generator functions and generator expressions.
 Learned how decorators add functionality without modifying the original function or class.
 Applied functional programming techniques using map(), filter(), and reduce().
 Improved understanding of writing clean, reusable, and efficient Python code.
+
+
 🚀 Day 7 Progress
 
 Today's practice strengthened my understanding of Python's advanced concepts, including iterators, generators, decorators, and functional programming. I also learned how Python processes data efficiently by generating values on demand and applying operations using map(), filter(), and reduce().
