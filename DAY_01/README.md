@@ -54,7 +54,6 @@ using user input and a dictionary-based operation selector.
 ### 3. Temperature Converter (`temperature_converter.py`)
 
 A menu-driven temperature converter capable of converting between:
-
 - Celsius ↔ Fahrenheit
 - Celsius ↔ Kelvin
 - Fahrenheit ↔ Celsius

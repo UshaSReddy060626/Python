@@ -1,2 +1,4 @@
 hello
-today i learned Append Mode.
+apple
+orange
+mango
