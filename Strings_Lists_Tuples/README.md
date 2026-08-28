@@ -1,140 +1,87 @@
-# 📘 Python Practice
+# 🐍 Python Fundamentals
 
-## 🚀 Overview
+## 📖 Overview
 
-This file contains my Python practice focused on understanding and using strings, lists, tuples, and comprehensions. The goal was to learn how to manipulate data using built-in methods and basic transformation techniques.
+I learned the fundamentals of Python programming and practiced the core concepts through hands-on coding exercises.
 
-## 🔤 String Operations
+---
 
-Practiced how to work with strings and extract or modify data from them.
+## 📚 Topics Covered
 
-### Concepts Used
+* Python Syntax & Indentation
+* Comments
+* Variables
+* Data Types
 
-* String indexing → Accessing characters using position
-* String slicing → Extracting parts of a string using ranges
-* `len()` → Finding length of a string
-* `upper()` → Converting string to uppercase
-* `lower()` → Converting string to lowercase
-* `replace()` → Replacing characters in a string
-* `split()` → Splitting string into parts based on a separator
-* `strip()` → Removing extra spaces
-* `startswith()` → Checking starting character/substring
+  * `int`
+  * `float`
+  * `complex`
+  * `string`
+  * `boolean`
+* Type Casting
+* Input & Output
+* `print()`
+* f-Strings
+* `.format()` Method
+* Arithmetic Operators
+* Comparison Operators
+* Logical Operators
+* Bitwise Operators
+* Assignment Operators
+* Membership Operators
+* Identity Operators
 
-## 📦 List Operations
+---
 
-Practiced how to create and manipulate lists.
+## 💻 Programs
 
-### Concepts Used
+### 1. Fundamentals (`fundamentals.py`)
 
-* Creating lists with different data types
-* Indexing → Accessing elements using position
-* Slicing → Extracting portions of a list
-* `append()` → Adding an element at the end
-* `count()` → Counting occurrences of an element
-* `pop()` → Removing elements by index or last element
-* `insert()` → Adding an element at a specific position
-* `extend()` → Merging two lists
-* `sort()` → Sorting elements in ascending or descending order
+A practice program demonstrating Python basics, including variables, data types, type casting, user input, formatted output, and different types of operators.
 
-## 🔢 Tuples
+### 2. Calculator (`calculator.py`)
 
-Learned how tuples work and how they differ from lists.
+A simple calculator that performs:
 
-### Concepts Used
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Floor Division
+* Exponentiation
 
-* Creating tuples
-* Understanding immutability
-* Indexing tuples
-* `count()` → Counting occurrences of elements
-* `index()` → Finding the position of an element
-* Negative indexing → Accessing elements from the end
+The program uses user input and a dictionary-based operation selector.
 
-## 🔁 Tuple Unpacking
+### 3. Temperature Converter (`temperature_converter.py`)
 
-Practiced assigning tuple values into separate variables.
+A menu-driven temperature converter capable of converting between:
 
-* Splitting a collection into multiple variables in one step
-* Assigning multiple values simultaneously
+* Celsius ↔ Fahrenheit
+* Celsius ↔ Kelvin
+* Fahrenheit ↔ Celsius
+* Fahrenheit ↔ Kelvin
+* Kelvin ↔ Celsius
+* Kelvin ↔ Fahrenheit
 
-## ⚡ List Comprehension
+The program uses Python dictionaries and lambda functions for efficient conversion logic.
 
-Learned how to create lists in a shorter and efficient way.
+---
 
-### Practiced
+## 🎯 Learning Outcomes
 
-* Creating new lists from existing lists
-* Transforming values inside lists
-* Adding symbols to strings
-* Multiplying numbers
-* Changing string case
+By completing this practice, I learned how to:
 
-## 🧮 Set Comprehension
+* Write basic Python programs
+* Work with variables and different data types
+* Accept user input
+* Format output using f-strings and `.format()`
+* Apply different categories of operators
+* Build menu-driven programs
+* Use dictionaries to simplify program logic
+* Improve problem-solving through hands-on coding
 
-Practiced creating sets using comprehension.
+---
 
-### Learned
+## 🚀 Progress
 
-* Creating sets from lists
-* Removing duplicate values automatically
-* Applying transformations while creating sets
-
-## 📊 Dictionary Comprehension
-
-Learned how to create dictionaries dynamically.
-
-### Practiced
-
-* Creating key-value pairs using comprehension
-* Mapping elements to computed values
-* Performing mathematical operations while creating dictionaries
-* Mapping elements based on properties such as length
-
-## 💻 Summary
-
-In this practice session, I worked on:
-
-* String manipulation techniques
-* List creation and operations
-* Tuple usage and unpacking
-* Set creation and uniqueness behavior
-* Dictionary creation using comprehension
-* Basic comprehension patterns for transformation
-
-## 🎯 Learning Outcome
-
-Understood how Python data structures work and how to efficiently manipulate data using built-in methods and comprehension techniques.
-
-## 🧪 Practice Programs
-
-This section includes small Python programs created after learning the core concepts. Each program applies the concepts learned in a practical way.
-
-### 🔁 Palindrome Program (`palindrome.py`)
-
-Takes input text from the user and reverses it using string slicing.
-
-* Accepts text as user input
-* Reverses the text using slicing
-* Displays the reversed text as output
-* Does not use loops or conditional statements
-
-The implementation is based on string slicing, a built-in Python feature for reversing strings.
-
-### 🔢 Number Pattern Program (`squares_cubes_even_odd.py`)
-
-Generates different number sequences using list comprehensions and `range()`.
-
-* Generates squares of numbers from 1 to 20
-* Generates cubes of numbers from 1 to 10
-* Generates even numbers from 1 to 50
-* Generates odd numbers from 1 to 50
-* Uses list comprehensions and `range()` step values
-* Does not use explicit loops or conditional statements
-
-## 💡 Purpose of This Section
-
-The practice programs demonstrate:
-
-* Practical application of learned concepts
-* Ability to implement logic using built-in Python features
-* Understanding of Python data structures
-* Early-stage problem-solving using comprehensions and built-in methods
+Completed Python fundamentals and built multiple small programs to strengthen my understanding of core Python concepts.
