@@ -121,4 +121,4 @@ By completing this practice, I was able to:
 
 Strengthened my understanding of Python's core concepts, including sets, dictionaries, conditionals, loops, and pattern programming. I also became more comfortable tracing program execution and writing clean, logical code.
 
-✅ **Python Basics Completed**
+
