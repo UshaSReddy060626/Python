@@ -1,4 +1,4 @@
-# 🚀 Day 09 – Asynchronous Programming, Concurrency & Testing in Python
+# 🚀 Asynchronous Programming, Concurrency & Testing in Python
 
 Today I explored Python's asynchronous programming, concurrency, memory-efficient programming techniques, and testing frameworks. I learned how Python handles multiple tasks using asynchronous programming, threads, and processes, along with writing simple automated tests.
 
@@ -63,18 +63,21 @@ Today I explored Python's asynchronous programming, concurrency, memory-efficien
 
 ## 🎯 Key Learning Outcomes
 
-* Learned the basics of asynchronous programming using `asyncio`.
-* Understood the role of the event loop in managing asynchronous tasks.
-* Explored concurrency using threads and processes.
-* Learned the difference between multithreading and multiprocessing.
-* Understood that generators produce values one at a time, making iteration more memory-efficient.
-* Practiced writing cleaner and more concise Python code using list comprehensions.
-* Gained hands-on experience with Python's built-in testing framework (`unittest`) and the `pytest` framework.
+By completing this practice, I learned how to:
+
+* Understand the basics of asynchronous programming using `asyncio`.
+* Understand the role of the event loop in managing asynchronous tasks.
+* Explore concurrency using threads and processes.
+* Understand the difference between multithreading and multiprocessing.
+* Use generators to produce values one at a time for memory-efficient iteration.
+* Write cleaner and more concise Python code using list comprehensions.
+* Gain hands-on experience with Python's built-in testing framework, `unittest`.
+* Write basic automated tests using the `pytest` framework.
 
 ---
 
-## ✅ Summary
+## 🚀 Summary
 
-Day 09 strengthened my understanding of asynchronous programming, concurrency, memory-efficient programming techniques, and automated testing in Python. These concepts are essential for building scalable, efficient, and reliable Python applications.
+This practice strengthened my understanding of asynchronous programming, concurrency, memory-efficient programming techniques, and automated testing in Python. These concepts are useful for building scalable, efficient, and reliable Python applications.
 
-✅ Day 09 Complete.
+
