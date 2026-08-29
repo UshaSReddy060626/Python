@@ -1,4 +1,4 @@
-# Day 3 – Python Basics: Sets, Dictionaries, Conditionals & Loops
+# 🐍 Python Basics: Sets, Dictionaries, Conditionals & Loops
 
 ## 📚 Topics Practiced
 
@@ -6,10 +6,10 @@
 
 Practiced creating and working with Python sets, which store only unique elements.
 
-**Concepts Covered**
+### Concepts Covered
 
 * Creating sets
-* Creating an empty set (`set()`) vs empty dictionary (`{}`)
+* Creating an empty set using `set()` vs an empty dictionary using `{}`
 * Adding elements using `add()`
 * Removing elements using `remove()`
 * Removing elements safely using `discard()`
@@ -20,7 +20,7 @@ Practiced creating and working with Python sets, which store only unique element
 
 Learned how to perform mathematical operations between two sets.
 
-**Operations Practiced**
+### Operations Practiced
 
 * Union (`|` / `union()`)
 * Intersection (`&` / `intersection()`)
@@ -32,7 +32,7 @@ Learned how to perform mathematical operations between two sets.
 
 Practiced working with dictionaries to store data as **key-value pairs**.
 
-**Concepts Covered**
+### Concepts Covered
 
 * Creating dictionaries
 * Accessing values using keys
@@ -50,19 +50,19 @@ Practiced working with dictionaries to store data as **key-value pairs**.
 
 Learned how programs make decisions based on different conditions.
 
-**Concepts Covered**
+### Concepts Covered
 
 * `if`
 * `if-else`
 * `if-elif-else`
 * Nested `if`
-* Using logical operators (`and`) to combine conditions
+* Using logical operators such as `and` to combine conditions
 
 ### 🔹 Loops
 
 Practiced repeating tasks efficiently using loops.
 
-**Concepts Covered**
+### Concepts Covered
 
 * `for` loop
 * `while` loop
@@ -74,7 +74,7 @@ Practiced repeating tasks efficiently using loops.
 
 Learned how to control the flow of loops.
 
-**Concepts Covered**
+### Concepts Covered
 
 * `break` – exits the loop immediately
 * `continue` – skips the current iteration
@@ -85,7 +85,7 @@ Learned how to control the flow of loops.
 ## 💻 Programs Implemented
 
 * Set creation and modification
-* Set operations (Union, Intersection, Difference, Symmetric Difference)
+* Set operations: Union, Intersection, Difference, and Symmetric Difference
 * Dictionary creation and manipulation
 * Voting eligibility checker using `if-else`
 * Student grade classification using `if-elif-else`
@@ -96,12 +96,14 @@ Learned how to control the flow of loops.
 * Nested loop demonstration
 * Counting using a `while` loop
 * Demonstration of `break`, `continue`, and `pass`
+* Hollow square star pattern using nested loops and conditional statements
+* Right-angled triangle star pattern using loops and string multiplication
 
 ---
 
 ## 🎯 Learning Outcomes
 
-By completing today's practice, I was able to:
+By completing this practice, I was able to:
 
 * Understand how sets store only unique values and how to manipulate them.
 * Perform common set operations such as union, intersection, difference, and symmetric difference.
@@ -109,14 +111,14 @@ By completing today's practice, I was able to:
 * Build confidence in using conditional statements to solve decision-making problems.
 * Understand the working of `for` and `while` loops for repetitive tasks.
 * Learn how nested loops execute and how they are commonly used in pattern-based problems.
-* Understand the purpose of loop control statements (`break`, `continue`, and `pass`).
-* Strengthen Python fundamentals by implementing multiple hands-on programs.
-* Practice creating a **hollow square star pattern** using nested loops and conditional statements.
-* Practice creating a **right-angled triangle star pattern** using loops and string multiplication.
+* Understand the purpose of loop control statements such as `break`, `continue`, and `pass`.
+* Strengthen Python fundamentals through multiple hands-on programs.
+* Practice creating patterns using nested loops, conditional statements, and string multiplication.
 
 ---
 
-## 🚀 Day 3 Progress
-Today's practice improved my understanding of Python's core concepts, including sets, dictionaries, conditionals, loops, and pattern programming. I also became more comfortable tracing program execution and writing clean, logical code.
+## 🚀 Progress
 
-✅ **Day 3 Complete**
+Strengthened my understanding of Python's core concepts, including sets, dictionaries, conditionals, loops, and pattern programming. I also became more comfortable tracing program execution and writing clean, logical code.
+
+✅ **Python Basics Completed**
